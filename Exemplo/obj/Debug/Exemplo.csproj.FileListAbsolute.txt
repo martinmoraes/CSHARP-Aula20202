@@ -1,0 +1,11 @@
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.cliente.Form1.resources
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.Form1.resources
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\bin\Debug\Exemplo.exe.config
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.exe
+C:\Users\Usuário\source\repos\Exercicios\Exemplo\obj\Debug\Exemplo.pdb

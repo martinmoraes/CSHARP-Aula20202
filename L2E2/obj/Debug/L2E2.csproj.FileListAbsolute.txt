@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\Exercicios\L2E2\bin\Debug\L2E2.exe.config
+C:\Users\Usuário\source\repos\Exercicios\L2E2\bin\Debug\L2E2.exe
+C:\Users\Usuário\source\repos\Exercicios\L2E2\bin\Debug\L2E2.pdb
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.Form1.resources
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.Properties.Resources.resources
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.exe
+C:\Users\Usuário\source\repos\Exercicios\L2E2\obj\Debug\L2E2.pdb

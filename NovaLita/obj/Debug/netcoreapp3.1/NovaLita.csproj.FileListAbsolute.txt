@@ -1,0 +1,13 @@
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\bin\Debug\netcoreapp3.1\NovaLita.exe
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\bin\Debug\netcoreapp3.1\NovaLita.deps.json
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\bin\Debug\netcoreapp3.1\NovaLita.runtimeconfig.json
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\bin\Debug\netcoreapp3.1\NovaLita.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\bin\Debug\netcoreapp3.1\NovaLita.dll
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\bin\Debug\netcoreapp3.1\NovaLita.pdb
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.dll
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.pdb
+C:\Users\Usuário\source\repos\Exercicios\NovaLita\obj\Debug\netcoreapp3.1\NovaLita.genruntimeconfig.cache
